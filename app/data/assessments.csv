@@ -1,1 +1,4 @@
-
+name,url,remote_support,adaptive_support,duration,test_type,description
+Java Programming Test,https://www.shl.com/java-test,Yes,No,35 minutes,Skills Assessment,"Measures Java programming skills for developers"
+OPQ32 Personality,https://www.shl.com/opq32,Yes,Yes,30 minutes,Personality Assessment,"Workplace personality questionnaire"
+Cognitive Ability,https://www.shl.com/cognitive,Yes,No,45 minutes,Cognitive Assessment,"General mental ability test"
