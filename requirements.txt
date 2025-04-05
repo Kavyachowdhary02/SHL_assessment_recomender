@@ -1,1 +1,9 @@
-
+fastapi==0.95.2
+uvicorn==0.22.0
+streamlit==1.25.0
+sentence-transformers==2.2.2
+chromadb==0.4.5
+beautifulsoup4==4.12.2
+requests==2.31.0
+pandas==2.0.3
+python-dotenv==1.0.0
